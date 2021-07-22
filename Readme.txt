@@ -1,0 +1,13 @@
+# sudoku
+this program solve a sudoku table
+for set an input; you should follow below:
+
+..93..6.7
+.....6...
+....1...4
+.9..41...
+41...293.
+.675...2.
+...2.....
+.7...4...
+2..17...5
